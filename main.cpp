@@ -2,5 +2,5 @@
 
 int main() {
   std::cout << "Demonstrating git commit!";
-  std::cout << "testing";
+  std::cout << "hello world";
 }
